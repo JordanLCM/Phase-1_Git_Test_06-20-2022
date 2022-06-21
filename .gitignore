@@ -1,0 +1,5 @@
+#Json files to be ignored
+angularcli.json
+
+#Component.ts files to be ignored
+component.ts
